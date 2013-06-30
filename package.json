@@ -1,0 +1,21 @@
+{
+  "name": "twitter-service",
+  "version": "0.0.1",
+  "description": "Backend service to consume app-only auth'd twitter api",
+  "main": "twitter-service.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "twitter",
+    "42",
+    "service"
+  ],
+  "author": "42",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.21.0",
+    "restify": "~2.6.0"
+  }
+}
