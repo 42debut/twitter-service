@@ -11,19 +11,19 @@ internets.
 ## APIs Wrapped
 
 #### `/1.1/application/rate_limit_status.json`
-https://dev.twitter.com/docs/api/1.1/get/application/rate_limit_status
+> https://dev.twitter.com/docs/api/1.1/get/application/rate_limit_status
 
-Returns the twitter app's rate limit status, but it only returns the
-resources that are wrapped by this service. <br>
-It also excludes the consumer key, becauseour clients dont't really need it.
+> Returns the twitter app's rate limit status, but it only returns the
+> resources that are wrapped by this service. <br>
+> It also excludes the consumer key, becauseour clients dont't really need it.
 
 
 #### `/1.1/statuses/user_timeline.json`
-https://dev.twitter.com/docs/api/1.1/get/statuses/user_timeline
+> https://dev.twitter.com/docs/api/1.1/get/statuses/user_timeline
 
 
 #### `/1.1/search/tweets.json`
-https://dev.twitter.com/docs/api/1.1/get/search/tweets
+> https://dev.twitter.com/docs/api/1.1/get/search/tweets
 
 
 ## Configuration
