@@ -15,7 +15,7 @@ internets.
 
 > Returns the twitter app's rate limit status, but it only returns the
 > resources that are wrapped by this service. <br>
-> It also excludes the consumer key, becauseour clients dont't really need it.
+> It also excludes the consumer key, because our clients don't really need it.
 
 
 #### `/1.1/statuses/user_timeline.json`
